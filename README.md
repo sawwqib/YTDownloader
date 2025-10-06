@@ -42,9 +42,3 @@ cd termux-ytdownloader
 
 python main.py
 
-
-
-
-
-
-Made with ❤️ by Saqib
