@@ -21,24 +21,17 @@ A simple YouTube downloader for Termux that lets you download videos or playlist
 You need Python and `yt-dlp`. Optionally, `ffmpeg` is needed for audio extraction.
 
 ```bash
-# Update packages
+
 pkg update && pkg upgrade -y
 
-# Install Python and pip
 pkg install python -y
 
-# Install ffmpeg (required for MP3 downloads)
 pkg install ffmpeg -y
 
-# Install yt-dlp
 pip install yt-dlp
-
-2. Clone this repository
 
 git clone https://github.com/sawwqib/YTDownloader.git
 cd YTDownloader
-
-3. Run the script
 
 python main.py
 ```
