@@ -35,7 +35,7 @@ pip install yt-dlp
 
 2. Clone this repository
 
-git clone https://github.com/yourusername/termux-ytdownloader.git
+git clone https://github.com/sawwqib/YTDownloader.git
 cd termux-ytdownloader
 
 3. Run the script
