@@ -28,7 +28,7 @@ logo = f"""
 
 print(logo)
 print(f"{BOLD}{CYAN}Visit: {YELLOW}https://sawwqib.vercel.app\n")
-print(f"{BOLD}{GREEN}Welcome to the Termux YouTube Downloader!\n{RESET}")
+print(f"{BOLD}{GREEN}Welcome to YouTube Video Downloader!\n{RESET}")
 
 # Step 1: Choose download type
 print(f"{MAGENTA}1.{RESET} Video")
