@@ -16,7 +16,7 @@ A simple and YouTube downloader for Termux that lets you download videos or play
 
 ## Installation
 
-### 1. Install required packages
+### Install required packages
 
 You need Python and `yt-dlp`. Optionally, `ffmpeg` is needed for audio extraction.
 
