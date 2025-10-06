@@ -1,7 +1,5 @@
 # YouTube Downloader
 
-![Logo](https://res.cloudinary.com/datfjlguq/image/upload/v1759760130/bowwuypdwra3qskwnrc7.png)
-
 A simple YouTube downloader for Termux that lets you download videos or playlists in **MP4** or **MP3** format with selectable quality. Built using Python and `yt-dlp`.
 
 ---
