@@ -42,39 +42,9 @@ cd termux-ytdownloader
 
 python main.py
 
-Follow the interactive prompts to select video/playlist, format, and quality.
-
-
----
-
-Example
-
-
-
-1. Choose download type (video or playlist)
-
-
-2. Paste YouTube URL
-
-
-3. Select format (MP4 or MP3)
-
-
-4. Select quality (Best or Worst)
-
-
-5. Download completes in YTDownloads folder
 
 
 
 
----
-
-Demo Video
-
-<img src="https://res.cloudinary.com/datfjlguq/image/upload/v1759749422/v6jzwpizgclwzdx1jjdc.gif">
-
-
----
 
 Made with ❤️ by Saqib
