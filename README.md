@@ -1,6 +1,6 @@
 # YouTube Downloader
 
-A simple and YouTube downloader for Termux that lets you download videos or playlists in **MP4** or **MP3** format with selectable quality. Built using Python and `yt-dlp`.
+A simple YouTube downloader for Termux that lets you download videos or playlists in **MP4** or **MP3** format with selectable quality. Built using Python and `yt-dlp`.
 
 ---
 
