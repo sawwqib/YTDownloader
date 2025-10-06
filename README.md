@@ -41,5 +41,5 @@ cd YTDownloader
 3. Run the script
 
 python main.py
-
+```
 [![Watch the demo](https://res.cloudinary.com/datfjlguq/image/upload/v1759749422/v6jzwpizgclwzdx1jjdc.gif)]
