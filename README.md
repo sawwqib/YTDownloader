@@ -37,4 +37,8 @@ python main.py
 ```
 ## Demo Video
 
-![Watch the demo](https://res.cloudinary.com/datfjlguq/image/upload/v1759749422/v6jzwpizgclwzdx1jjdc.gif)
+![watch Video](https://res.cloudinary.com/datfjlguq/image/upload/v1759749422/v6jzwpizgclwzdx1jjdc.gif)
+
+## Repo Views
+
+![Repo Views](https://count.getloli.com/@Ytdwn?name=Ytdwn&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
